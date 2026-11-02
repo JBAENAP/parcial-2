@@ -1,0 +1,6 @@
+Mapa de 1 filas x 1 columnas
+Número de regiones: 1
+Mayor área (1 casillas):
+  Región 1 (A): área 1, perímetro 4, desde {0,0} hasta {0,0}
+Mayor perímetro (4 lados):
+  Región 1 (A): área 1, perímetro 4, desde {0,0} hasta {0,0}

@@ -1,0 +1,18 @@
+=== A → D ===
+Itinerario 1: A → B → C → D | tramos: 3 | 15 min | costo: 9
+    tramos usados: A → B (8 min, costo 5); B → C (3 min, costo 2); C → D (4 min, costo 2)
+Total: 1 itinerario
+Menos tramos: 1
+Menor tiempo: 1
+Menor costo: 1
+
+=== A → Z ===
+El centro Z no existe en la red; no se inicia la búsqueda.
+
+=== X → Y ===
+Los centros X y Y no existen en la red; no se inicia la búsqueda.
+
+Consulta inválida en la línea 4: "solo_un_centro" (se esperaba origen,destino)
+
+Consulta inválida en la línea 5: "A," (se esperaba origen,destino)
+

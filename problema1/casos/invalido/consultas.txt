@@ -1,0 +1,5 @@
+A,D
+A,Z
+X,Y
+solo_un_centro
+A,

@@ -1,0 +1,6 @@
+Mapa de 60 filas x 60 columnas
+Número de regiones: 1
+Mayor área (3600 casillas):
+  Región 1 (C): área 3600, perímetro 240, desde {0,0} hasta {59,59}
+Mayor perímetro (240 lados):
+  Región 1 (C): área 3600, perímetro 240, desde {0,0} hasta {59,59}

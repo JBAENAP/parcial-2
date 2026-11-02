@@ -1,0 +1,19 @@
+=== A → A ===
+Itinerario 1: A | tramos: 0 | 0 min | costo: 0
+    tramos usados: ninguno (origen = destino)
+Total: 1 itinerario
+Menos tramos: 1
+Menor tiempo: 1
+Menor costo: 1
+
+=== A → Z ===
+Sin itinerarios: Z no es alcanzable desde A.
+
+=== C → B ===
+Itinerario 1: C → A → B | tramos: 2 | 4 min | costo: 4
+    tramos usados: C → A (3 min, costo 3); A → B (1 min, costo 1)
+Total: 1 itinerario
+Menos tramos: 1
+Menor tiempo: 1
+Menor costo: 1
+

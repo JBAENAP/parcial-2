@@ -1,0 +1,8 @@
+# Caso límite: ciclo A-B-C-A, tramos en sentidos contrarios y un centro aislado en bucle
+A,B,1,1
+B,A,1,1
+B,C,2,2
+C,A,3,3
+A,C,5,1
+
+Z,Z,1,1

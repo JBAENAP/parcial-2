@@ -1,0 +1,4 @@
+# Filas de distinto largo y símbolos sin color
+A A . B
+A X . B B
+. . C

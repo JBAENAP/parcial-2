@@ -1,0 +1,7 @@
+
+A A
+# un comentario no es fila vacía
+A .
+
+B B
+

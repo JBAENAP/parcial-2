@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="80" viewBox="0 0 120 80">
+<title>Mapa de regiones</title>
+<rect x="0" y="0" width="40" height="40" fill="#F1F5F9" stroke="#333333" stroke-width="1"><title>Fondo: fondo</title></rect>
+<rect x="40" y="0" width="40" height="40" fill="#F1F5F9" stroke="#333333" stroke-width="1"><title>Fondo: fondo</title></rect>
+<rect x="80" y="0" width="40" height="40" fill="#F1F5F9" stroke="#333333" stroke-width="1"><title>Fondo: fondo</title></rect>
+<rect x="0" y="40" width="40" height="40" fill="#F1F5F9" stroke="#333333" stroke-width="1"><title>Fondo: fondo</title></rect>
+<rect x="40" y="40" width="40" height="40" fill="#F1F5F9" stroke="#333333" stroke-width="1"><title>Fondo: fondo</title></rect>
+<rect x="80" y="40" width="40" height="40" fill="#F1F5F9" stroke="#333333" stroke-width="1"><title>Fondo: fondo</title></rect>
+</svg>

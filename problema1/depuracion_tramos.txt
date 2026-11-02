@@ -1,0 +1,2 @@
+Línea 8: "A,A,2,1" -> el tramo sale y llega al mismo centro (A)
+Línea 9: "A,B,9,7" -> pareja A → B repetida; se conserva la de la línea 2

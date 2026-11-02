@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+<title>Mapa de regiones</title>
+<rect x="0" y="0" width="40" height="40" fill="#2563EB" stroke="#333333" stroke-width="1"><title>Región 1: agua (A)</title></rect>
+<text x="20" y="20" text-anchor="middle" dominant-baseline="central" font-family="sans-serif" font-size="16" font-weight="bold" fill="#000000">1</text>
+</svg>

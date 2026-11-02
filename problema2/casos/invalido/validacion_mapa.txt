@@ -1,0 +1,12 @@
+Paleta línea 2: el color '16A34A' no tiene la forma #RRGGBB
+Paleta línea 3: el color '#F59E0Z' no tiene la forma #RRGGBB
+Paleta línea 4: el símbolo 'A' está repetido (ya estaba en la línea 1)
+Paleta línea 5: se esperaban 3 campos (simbolo,nombre,color_hex) y hay 2
+Paleta: falta el símbolo '.' (fondo)
+Mapa fila 1 (línea 3): tiene 5 casillas y se esperaban 4
+Mapa fila 2 (línea 4): tiene 3 casillas y se esperaban 4
+Mapa fila 0, columna 2 (línea 2): el símbolo '.' no está en la paleta
+Mapa fila 1, columna 1 (línea 3): el símbolo 'X' no está en la paleta
+Mapa fila 1, columna 2 (línea 3): el símbolo '.' no está en la paleta
+Mapa fila 2, columna 0 (línea 4): el símbolo '.' no está en la paleta
+Mapa fila 2, columna 1 (línea 4): el símbolo '.' no está en la paleta

@@ -1,0 +1,1316 @@
+=== A → G ===
+Itinerario 1: A → B → C → D → E → F → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → D (18 min, costo 2); D → E (6 min, costo 6); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 2: A → B → C → D → E → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → D (18 min, costo 2); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 3: A → B → C → D → F → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → D (18 min, costo 2); D → F (7 min, costo 9); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 4: A → B → C → D → F → G | tramos: 5 | 39 min | costo: 26
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → D (18 min, costo 2); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 5: A → B → C → D → G | tramos: 4 | 38 min | costo: 15
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 6: A → B → C → E → D → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → E (19 min, costo 5); E → D (12 min, costo 4); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 7: A → B → C → E → D → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → E (19 min, costo 5); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 8: A → B → C → E → F → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → E (19 min, costo 5); E → F (14 min, costo 1); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 9: A → B → C → E → F → G | tramos: 5 | 47 min | costo: 21
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → E (19 min, costo 5); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 10: A → B → C → E → G | tramos: 4 | 46 min | costo: 19
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 11: A → B → C → F → D → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → F (20 min, costo 8); F → D (19 min, costo 5); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 12: A → B → C → F → D → G | tramos: 5 | 59 min | costo: 26
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → F (20 min, costo 8); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 13: A → B → C → F → E → D → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → F (20 min, costo 8); F → E (20 min, costo 8); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 14: A → B → C → F → E → G | tramos: 5 | 67 min | costo: 30
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → F (20 min, costo 8); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 15: A → B → C → F → G | tramos: 4 | 34 min | costo: 23
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 16: A → B → C → G | tramos: 3 | 13 min | costo: 12
+    tramos usados: A → B (2 min, costo 3); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 17: A → B → D → C → E → F → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → C (4 min, costo 9); C → E (19 min, costo 5); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 18: A → B → D → C → E → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → C (4 min, costo 9); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 19: A → B → D → C → F → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → C (4 min, costo 9); C → F (20 min, costo 8); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 20: A → B → D → C → F → G | tramos: 5 | 39 min | costo: 26
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → C (4 min, costo 9); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 21: A → B → D → C → G | tramos: 4 | 18 min | costo: 15
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 22: A → B → D → E → C → F → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → E (6 min, costo 6); E → C (11 min, costo 1); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 23: A → B → D → E → C → G | tramos: 5 | 31 min | costo: 13
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → E (6 min, costo 6); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 24: A → B → D → E → F → C → G | tramos: 6 | 52 min | costo: 15
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → E (6 min, costo 6); E → F (14 min, costo 1); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 25: A → B → D → E → F → G | tramos: 5 | 35 min | costo: 16
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → E (6 min, costo 6); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 26: A → B → D → E → G | tramos: 4 | 34 min | costo: 14
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 27: A → B → D → F → C → E → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → F (7 min, costo 9); F → C (18 min, costo 2); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 28: A → B → D → F → C → G | tramos: 5 | 39 min | costo: 17
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → F (7 min, costo 9); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 29: A → B → D → F → E → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → F (7 min, costo 9); F → E (20 min, costo 8); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 30: A → B → D → F → E → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → F (7 min, costo 9); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 31: A → B → D → F → G | tramos: 4 | 22 min | costo: 18
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 32: A → B → D → G | tramos: 3 | 21 min | costo: 7
+    tramos usados: A → B (2 min, costo 3); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 33: A → B → E → C → D → F → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → C (11 min, costo 1); C → D (18 min, costo 2); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 34: A → B → E → C → D → G | tramos: 5 | 51 min | costo: 13
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → C (11 min, costo 1); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 35: A → B → E → C → F → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → C (11 min, costo 1); C → F (20 min, costo 8); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 36: A → B → E → C → F → G | tramos: 5 | 47 min | costo: 21
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → C (11 min, costo 1); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 37: A → B → E → C → G | tramos: 4 | 26 min | costo: 10
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 38: A → B → E → D → C → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → D (12 min, costo 4); D → C (4 min, costo 9); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 39: A → B → E → D → C → G | tramos: 5 | 31 min | costo: 22
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → D (12 min, costo 4); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 40: A → B → E → D → F → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → D (12 min, costo 4); D → F (7 min, costo 9); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 41: A → B → E → D → F → G | tramos: 5 | 35 min | costo: 25
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → D (12 min, costo 4); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 42: A → B → E → D → G | tramos: 4 | 34 min | costo: 14
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 43: A → B → E → F → C → D → G | tramos: 6 | 72 min | costo: 15
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → F (14 min, costo 1); F → C (18 min, costo 2); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 44: A → B → E → F → C → G | tramos: 5 | 47 min | costo: 12
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → F (14 min, costo 1); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 45: A → B → E → F → D → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → F (14 min, costo 1); F → D (19 min, costo 5); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 46: A → B → E → F → D → G | tramos: 5 | 55 min | costo: 16
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → F (14 min, costo 1); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 47: A → B → E → F → G | tramos: 4 | 30 min | costo: 13
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 48: A → B → E → G | tramos: 3 | 29 min | costo: 11
+    tramos usados: A → B (2 min, costo 3); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 49: A → B → F → C → D → E → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → C (18 min, costo 2); C → D (18 min, costo 2); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 50: A → B → F → C → D → G | tramos: 5 | 59 min | costo: 17
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → C (18 min, costo 2); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 51: A → B → F → C → E → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → C (18 min, costo 2); C → E (19 min, costo 5); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 52: A → B → F → C → E → G | tramos: 5 | 67 min | costo: 21
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → C (18 min, costo 2); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 53: A → B → F → C → G | tramos: 4 | 34 min | costo: 14
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 54: A → B → F → D → C → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → D (19 min, costo 5); D → C (4 min, costo 9); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 55: A → B → F → D → C → G | tramos: 5 | 39 min | costo: 26
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → D (19 min, costo 5); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 56: A → B → F → D → E → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → D (19 min, costo 5); D → E (6 min, costo 6); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 57: A → B → F → D → E → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → D (19 min, costo 5); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 58: A → B → F → D → G | tramos: 4 | 42 min | costo: 18
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 59: A → B → F → E → C → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → E (20 min, costo 8); E → C (11 min, costo 1); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 60: A → B → F → E → C → G | tramos: 5 | 47 min | costo: 21
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → E (20 min, costo 8); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 61: A → B → F → E → D → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → E (20 min, costo 8); E → D (12 min, costo 4); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 62: A → B → F → E → D → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → E (20 min, costo 8); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 63: A → B → F → E → G | tramos: 4 | 50 min | costo: 22
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 64: A → B → F → G | tramos: 3 | 17 min | costo: 15
+    tramos usados: A → B (2 min, costo 3); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 65: A → B → G | tramos: 2 | 16 min | costo: 4
+    tramos usados: A → B (2 min, costo 3); B → G (14 min, costo 1)
+Itinerario 66: A → C → B → D → E → F → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → D (11 min, costo 1); D → E (6 min, costo 6); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 67: A → C → B → D → E → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → D (11 min, costo 1); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 68: A → C → B → D → F → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → D (11 min, costo 1); D → F (7 min, costo 9); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 69: A → C → B → D → F → G | tramos: 5 | 39 min | costo: 26
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → D (11 min, costo 1); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 70: A → C → B → D → G | tramos: 4 | 38 min | costo: 15
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 71: A → C → B → E → D → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → E (12 min, costo 4); E → D (12 min, costo 4); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 72: A → C → B → E → D → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → E (12 min, costo 4); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 73: A → C → B → E → F → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → E (12 min, costo 4); E → F (14 min, costo 1); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 74: A → C → B → E → F → G | tramos: 5 | 47 min | costo: 21
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → E (12 min, costo 4); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 75: A → C → B → E → G | tramos: 4 | 46 min | costo: 19
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 76: A → C → B → F → D → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → F (13 min, costo 7); F → D (19 min, costo 5); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 77: A → C → B → F → D → G | tramos: 5 | 59 min | costo: 26
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → F (13 min, costo 7); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 78: A → C → B → F → E → D → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → F (13 min, costo 7); F → E (20 min, costo 8); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 79: A → C → B → F → E → G | tramos: 5 | 67 min | costo: 30
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → F (13 min, costo 7); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 80: A → C → B → F → G | tramos: 4 | 34 min | costo: 23
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 81: A → C → B → G | tramos: 3 | 33 min | costo: 12
+    tramos usados: A → C (3 min, costo 6); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 82: A → C → D → B → E → F → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → B (3 min, costo 6); B → E (12 min, costo 4); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 83: A → C → D → B → E → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → B (3 min, costo 6); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 84: A → C → D → B → F → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → B (3 min, costo 6); B → F (13 min, costo 7); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 85: A → C → D → B → F → G | tramos: 5 | 39 min | costo: 26
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → B (3 min, costo 6); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 86: A → C → D → B → G | tramos: 4 | 38 min | costo: 15
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 87: A → C → D → E → B → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → E (6 min, costo 6); E → B (10 min, costo 7); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 88: A → C → D → E → B → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → E (6 min, costo 6); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 89: A → C → D → E → F → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → E (6 min, costo 6); E → F (14 min, costo 1); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 90: A → C → D → E → F → G | tramos: 5 | 43 min | costo: 20
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → E (6 min, costo 6); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 91: A → C → D → E → G | tramos: 4 | 42 min | costo: 18
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 92: A → C → D → F → B → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → F (7 min, costo 9); F → B (17 min, costo 8); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 93: A → C → D → F → B → G | tramos: 5 | 59 min | costo: 26
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → F (7 min, costo 9); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 94: A → C → D → F → E → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → F (7 min, costo 9); F → E (20 min, costo 8); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 95: A → C → D → F → E → G | tramos: 5 | 63 min | costo: 29
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → F (7 min, costo 9); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 96: A → C → D → F → G | tramos: 4 | 30 min | costo: 22
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 97: A → C → D → G | tramos: 3 | 29 min | costo: 11
+    tramos usados: A → C (3 min, costo 6); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 98: A → C → E → B → D → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → B (10 min, costo 7); B → D (11 min, costo 1); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 99: A → C → E → B → D → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → B (10 min, costo 7); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 100: A → C → E → B → F → D → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → B (10 min, costo 7); B → F (13 min, costo 7); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 101: A → C → E → B → F → G | tramos: 5 | 47 min | costo: 30
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → B (10 min, costo 7); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 102: A → C → E → B → G | tramos: 4 | 46 min | costo: 19
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 103: A → C → E → D → B → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → D (12 min, costo 4); D → B (3 min, costo 6); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 104: A → C → E → D → B → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → D (12 min, costo 4); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 105: A → C → E → D → F → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → D (12 min, costo 4); D → F (7 min, costo 9); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 106: A → C → E → D → F → G | tramos: 5 | 43 min | costo: 29
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → D (12 min, costo 4); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 107: A → C → E → D → G | tramos: 4 | 42 min | costo: 18
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 108: A → C → E → F → B → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → F (14 min, costo 1); F → B (17 min, costo 8); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 109: A → C → E → F → B → G | tramos: 5 | 67 min | costo: 21
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → F (14 min, costo 1); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 110: A → C → E → F → D → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → F (14 min, costo 1); F → D (19 min, costo 5); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 111: A → C → E → F → D → G | tramos: 5 | 63 min | costo: 20
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → F (14 min, costo 1); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 112: A → C → E → F → G | tramos: 4 | 38 min | costo: 17
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 113: A → C → E → G | tramos: 3 | 37 min | costo: 15
+    tramos usados: A → C (3 min, costo 6); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 114: A → C → F → B → D → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → B (17 min, costo 8); B → D (11 min, costo 1); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 115: A → C → F → B → D → G | tramos: 5 | 59 min | costo: 26
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → B (17 min, costo 8); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 116: A → C → F → B → E → D → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → B (17 min, costo 8); B → E (12 min, costo 4); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 117: A → C → F → B → E → G | tramos: 5 | 67 min | costo: 30
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → B (17 min, costo 8); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 118: A → C → F → B → G | tramos: 4 | 54 min | costo: 23
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 119: A → C → F → D → B → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → D (19 min, costo 5); D → B (3 min, costo 6); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 120: A → C → F → D → B → G | tramos: 5 | 59 min | costo: 26
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → D (19 min, costo 5); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 121: A → C → F → D → E → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → D (19 min, costo 5); D → E (6 min, costo 6); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 122: A → C → F → D → E → G | tramos: 5 | 63 min | costo: 29
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → D (19 min, costo 5); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 123: A → C → F → D → G | tramos: 4 | 50 min | costo: 22
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 124: A → C → F → E → B → D → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → E (20 min, costo 8); E → B (10 min, costo 7); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 125: A → C → F → E → B → G | tramos: 5 | 67 min | costo: 30
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → E (20 min, costo 8); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 126: A → C → F → E → D → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → E (20 min, costo 8); E → D (12 min, costo 4); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 127: A → C → F → E → D → G | tramos: 5 | 63 min | costo: 29
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → E (20 min, costo 8); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 128: A → C → F → E → G | tramos: 4 | 58 min | costo: 26
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 129: A → C → F → G | tramos: 3 | 25 min | costo: 19
+    tramos usados: A → C (3 min, costo 6); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 130: A → C → G | tramos: 2 | 4 min | costo: 8
+    tramos usados: A → C (3 min, costo 6); C → G (1 min, costo 2)
+Itinerario 131: A → D → B → C → E → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → C (10 min, costo 7); C → E (19 min, costo 5); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 132: A → D → B → C → E → G | tramos: 5 | 51 min | costo: 31
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → C (10 min, costo 7); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 133: A → D → B → C → F → E → G | tramos: 6 | 72 min | costo: 42
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → C (10 min, costo 7); C → F (20 min, costo 8); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 134: A → D → B → C → F → G | tramos: 5 | 39 min | costo: 35
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → C (10 min, costo 7); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 135: A → D → B → C → G | tramos: 4 | 18 min | costo: 24
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 136: A → D → B → E → C → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → E (12 min, costo 4); E → C (11 min, costo 1); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 137: A → D → B → E → C → G | tramos: 5 | 31 min | costo: 22
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → E (12 min, costo 4); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 138: A → D → B → E → F → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → E (12 min, costo 4); E → F (14 min, costo 1); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 139: A → D → B → E → F → G | tramos: 5 | 35 min | costo: 25
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → E (12 min, costo 4); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 140: A → D → B → E → G | tramos: 4 | 34 min | costo: 23
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 141: A → D → B → F → C → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → F (13 min, costo 7); F → C (18 min, costo 2); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 142: A → D → B → F → C → G | tramos: 5 | 39 min | costo: 26
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → F (13 min, costo 7); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 143: A → D → B → F → E → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → F (13 min, costo 7); F → E (20 min, costo 8); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 144: A → D → B → F → E → G | tramos: 5 | 55 min | costo: 34
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → F (13 min, costo 7); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 145: A → D → B → F → G | tramos: 4 | 22 min | costo: 27
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 146: A → D → B → G | tramos: 3 | 21 min | costo: 16
+    tramos usados: A → D (4 min, costo 9); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 147: A → D → C → B → E → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → B (16 min, costo 5); B → E (12 min, costo 4); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 148: A → D → C → B → E → G | tramos: 5 | 51 min | costo: 31
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → B (16 min, costo 5); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 149: A → D → C → B → F → E → G | tramos: 6 | 72 min | costo: 42
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → B (16 min, costo 5); B → F (13 min, costo 7); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 150: A → D → C → B → F → G | tramos: 5 | 39 min | costo: 35
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → B (16 min, costo 5); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 151: A → D → C → B → G | tramos: 4 | 38 min | costo: 24
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 152: A → D → C → E → B → F → G | tramos: 6 | 52 min | costo: 42
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → E (19 min, costo 5); E → B (10 min, costo 7); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 153: A → D → C → E → B → G | tramos: 5 | 51 min | costo: 31
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → E (19 min, costo 5); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 154: A → D → C → E → F → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → E (19 min, costo 5); E → F (14 min, costo 1); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 155: A → D → C → E → F → G | tramos: 5 | 43 min | costo: 29
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → E (19 min, costo 5); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 156: A → D → C → E → G | tramos: 4 | 42 min | costo: 27
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 157: A → D → C → F → B → E → G | tramos: 6 | 72 min | costo: 42
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → F (20 min, costo 8); F → B (17 min, costo 8); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 158: A → D → C → F → B → G | tramos: 5 | 59 min | costo: 35
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → F (20 min, costo 8); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 159: A → D → C → F → E → B → G | tramos: 6 | 72 min | costo: 42
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → F (20 min, costo 8); F → E (20 min, costo 8); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 160: A → D → C → F → E → G | tramos: 5 | 63 min | costo: 38
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → F (20 min, costo 8); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 161: A → D → C → F → G | tramos: 4 | 30 min | costo: 31
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 162: A → D → C → G | tramos: 3 | 9 min | costo: 20
+    tramos usados: A → D (4 min, costo 9); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 163: A → D → E → B → C → F → G | tramos: 6 | 52 min | costo: 42
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → B (10 min, costo 7); B → C (10 min, costo 7); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 164: A → D → E → B → C → G | tramos: 5 | 31 min | costo: 31
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → B (10 min, costo 7); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 165: A → D → E → B → F → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → B (10 min, costo 7); B → F (13 min, costo 7); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 166: A → D → E → B → F → G | tramos: 5 | 35 min | costo: 34
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → B (10 min, costo 7); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 167: A → D → E → B → G | tramos: 4 | 34 min | costo: 23
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 168: A → D → E → C → B → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → C (11 min, costo 1); C → B (16 min, costo 5); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 169: A → D → E → C → B → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → C (11 min, costo 1); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 170: A → D → E → C → F → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → C (11 min, costo 1); C → F (20 min, costo 8); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 171: A → D → E → C → F → G | tramos: 5 | 43 min | costo: 29
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → C (11 min, costo 1); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 172: A → D → E → C → G | tramos: 4 | 22 min | costo: 18
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 173: A → D → E → F → B → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → F (14 min, costo 1); F → B (17 min, costo 8); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 174: A → D → E → F → B → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → F (14 min, costo 1); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 175: A → D → E → F → C → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → F (14 min, costo 1); F → C (18 min, costo 2); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 176: A → D → E → F → C → G | tramos: 5 | 43 min | costo: 20
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → F (14 min, costo 1); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 177: A → D → E → F → G | tramos: 4 | 26 min | costo: 21
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 178: A → D → E → G | tramos: 3 | 25 min | costo: 19
+    tramos usados: A → D (4 min, costo 9); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 179: A → D → F → B → C → E → G | tramos: 6 | 72 min | costo: 42
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → B (17 min, costo 8); B → C (10 min, costo 7); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 180: A → D → F → B → C → G | tramos: 5 | 39 min | costo: 35
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → B (17 min, costo 8); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 181: A → D → F → B → E → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → B (17 min, costo 8); B → E (12 min, costo 4); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 182: A → D → F → B → E → G | tramos: 5 | 55 min | costo: 34
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → B (17 min, costo 8); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 183: A → D → F → B → G | tramos: 4 | 42 min | costo: 27
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 184: A → D → F → C → B → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → C (18 min, costo 2); C → B (16 min, costo 5); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 185: A → D → F → C → B → G | tramos: 5 | 59 min | costo: 26
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → C (18 min, costo 2); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 186: A → D → F → C → E → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → C (18 min, costo 2); C → E (19 min, costo 5); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 187: A → D → F → C → E → G | tramos: 5 | 63 min | costo: 29
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → C (18 min, costo 2); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 188: A → D → F → C → G | tramos: 4 | 30 min | costo: 22
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 189: A → D → F → E → B → C → G | tramos: 6 | 52 min | costo: 42
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → E (20 min, costo 8); E → B (10 min, costo 7); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 190: A → D → F → E → B → G | tramos: 5 | 55 min | costo: 34
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → E (20 min, costo 8); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 191: A → D → F → E → C → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → E (20 min, costo 8); E → C (11 min, costo 1); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 192: A → D → F → E → C → G | tramos: 5 | 43 min | costo: 29
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → E (20 min, costo 8); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 193: A → D → F → E → G | tramos: 4 | 46 min | costo: 30
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 194: A → D → F → G | tramos: 3 | 13 min | costo: 23
+    tramos usados: A → D (4 min, costo 9); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 195: A → D → G | tramos: 2 | 12 min | costo: 12
+    tramos usados: A → D (4 min, costo 9); D → G (8 min, costo 3)
+Itinerario 196: A → E → B → C → D → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → C (10 min, costo 7); C → D (18 min, costo 2); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 197: A → E → B → C → D → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → C (10 min, costo 7); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 198: A → E → B → C → F → D → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → C (10 min, costo 7); C → F (20 min, costo 8); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 199: A → E → B → C → F → G | tramos: 5 | 47 min | costo: 30
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → C (10 min, costo 7); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 200: A → E → B → C → G | tramos: 4 | 26 min | costo: 19
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 201: A → E → B → D → C → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → D (11 min, costo 1); D → C (4 min, costo 9); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 202: A → E → B → D → C → G | tramos: 5 | 31 min | costo: 22
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → D (11 min, costo 1); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 203: A → E → B → D → F → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → D (11 min, costo 1); D → F (7 min, costo 9); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 204: A → E → B → D → F → G | tramos: 5 | 35 min | costo: 25
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → D (11 min, costo 1); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 205: A → E → B → D → G | tramos: 4 | 34 min | costo: 14
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 206: A → E → B → F → C → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → F (13 min, costo 7); F → C (18 min, costo 2); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 207: A → E → B → F → C → G | tramos: 5 | 47 min | costo: 21
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → F (13 min, costo 7); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 208: A → E → B → F → D → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → F (13 min, costo 7); F → D (19 min, costo 5); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 209: A → E → B → F → D → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → F (13 min, costo 7); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 210: A → E → B → F → G | tramos: 4 | 30 min | costo: 22
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 211: A → E → B → G | tramos: 3 | 29 min | costo: 11
+    tramos usados: A → E (5 min, costo 3); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 212: A → E → C → B → D → F → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → B (16 min, costo 5); B → D (11 min, costo 1); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 213: A → E → C → B → D → G | tramos: 5 | 51 min | costo: 13
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → B (16 min, costo 5); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 214: A → E → C → B → F → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → B (16 min, costo 5); B → F (13 min, costo 7); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 215: A → E → C → B → F → G | tramos: 5 | 47 min | costo: 21
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → B (16 min, costo 5); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 216: A → E → C → B → G | tramos: 4 | 46 min | costo: 10
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 217: A → E → C → D → B → F → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → D (18 min, costo 2); D → B (3 min, costo 6); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 218: A → E → C → D → B → G | tramos: 5 | 51 min | costo: 13
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → D (18 min, costo 2); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 219: A → E → C → D → F → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → D (18 min, costo 2); D → F (7 min, costo 9); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 220: A → E → C → D → F → G | tramos: 5 | 43 min | costo: 20
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → D (18 min, costo 2); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 221: A → E → C → D → G | tramos: 4 | 42 min | costo: 9
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 222: A → E → C → F → B → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → F (20 min, costo 8); F → B (17 min, costo 8); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 223: A → E → C → F → B → G | tramos: 5 | 67 min | costo: 21
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → F (20 min, costo 8); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 224: A → E → C → F → D → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → F (20 min, costo 8); F → D (19 min, costo 5); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 225: A → E → C → F → D → G | tramos: 5 | 63 min | costo: 20
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → F (20 min, costo 8); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 226: A → E → C → F → G | tramos: 4 | 38 min | costo: 17
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 227: A → E → C → G | tramos: 3 | 17 min | costo: 6
+    tramos usados: A → E (5 min, costo 3); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 228: A → E → D → B → C → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → B (3 min, costo 6); B → C (10 min, costo 7); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 229: A → E → D → B → C → G | tramos: 5 | 31 min | costo: 22
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → B (3 min, costo 6); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 230: A → E → D → B → F → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → B (3 min, costo 6); B → F (13 min, costo 7); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 231: A → E → D → B → F → G | tramos: 5 | 35 min | costo: 25
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → B (3 min, costo 6); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 232: A → E → D → B → G | tramos: 4 | 34 min | costo: 14
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 233: A → E → D → C → B → F → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → C (4 min, costo 9); C → B (16 min, costo 5); B → F (13 min, costo 7); F → G (2 min, costo 5)
+Itinerario 234: A → E → D → C → B → G | tramos: 5 | 51 min | costo: 22
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → C (4 min, costo 9); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 235: A → E → D → C → F → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → C (4 min, costo 9); C → F (20 min, costo 8); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 236: A → E → D → C → F → G | tramos: 5 | 43 min | costo: 29
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → C (4 min, costo 9); C → F (20 min, costo 8); F → G (2 min, costo 5)
+Itinerario 237: A → E → D → C → G | tramos: 4 | 22 min | costo: 18
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 238: A → E → D → F → B → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → F (7 min, costo 9); F → B (17 min, costo 8); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 239: A → E → D → F → B → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → F (7 min, costo 9); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 240: A → E → D → F → C → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → F (7 min, costo 9); F → C (18 min, costo 2); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 241: A → E → D → F → C → G | tramos: 5 | 43 min | costo: 20
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → F (7 min, costo 9); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 242: A → E → D → F → G | tramos: 4 | 26 min | costo: 21
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → F (7 min, costo 9); F → G (2 min, costo 5)
+Itinerario 243: A → E → D → G | tramos: 3 | 25 min | costo: 10
+    tramos usados: A → E (5 min, costo 3); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 244: A → E → F → B → C → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → B (17 min, costo 8); B → C (10 min, costo 7); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 245: A → E → F → B → C → G | tramos: 5 | 47 min | costo: 21
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → B (17 min, costo 8); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 246: A → E → F → B → D → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → B (17 min, costo 8); B → D (11 min, costo 1); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 247: A → E → F → B → D → G | tramos: 5 | 55 min | costo: 16
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → B (17 min, costo 8); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 248: A → E → F → B → G | tramos: 4 | 50 min | costo: 13
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 249: A → E → F → C → B → D → G | tramos: 6 | 72 min | costo: 15
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → C (18 min, costo 2); C → B (16 min, costo 5); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 250: A → E → F → C → B → G | tramos: 5 | 67 min | costo: 12
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → C (18 min, costo 2); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 251: A → E → F → C → D → B → G | tramos: 6 | 72 min | costo: 15
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → C (18 min, costo 2); C → D (18 min, costo 2); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 252: A → E → F → C → D → G | tramos: 5 | 63 min | costo: 11
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → C (18 min, costo 2); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 253: A → E → F → C → G | tramos: 4 | 38 min | costo: 8
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 254: A → E → F → D → B → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → D (19 min, costo 5); D → B (3 min, costo 6); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 255: A → E → F → D → B → G | tramos: 5 | 55 min | costo: 16
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → D (19 min, costo 5); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 256: A → E → F → D → C → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → D (19 min, costo 5); D → C (4 min, costo 9); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 257: A → E → F → D → C → G | tramos: 5 | 43 min | costo: 20
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → D (19 min, costo 5); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 258: A → E → F → D → G | tramos: 4 | 46 min | costo: 12
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 259: A → E → F → G | tramos: 3 | 21 min | costo: 9
+    tramos usados: A → E (5 min, costo 3); E → F (14 min, costo 1); F → G (2 min, costo 5)
+Itinerario 260: A → E → G | tramos: 2 | 20 min | costo: 7
+    tramos usados: A → E (5 min, costo 3); E → G (15 min, costo 4)
+Itinerario 261: A → F → B → C → D → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → C (10 min, costo 7); C → D (18 min, costo 2); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 262: A → F → B → C → D → G | tramos: 5 | 59 min | costo: 26
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → C (10 min, costo 7); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 263: A → F → B → C → E → D → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → C (10 min, costo 7); C → E (19 min, costo 5); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 264: A → F → B → C → E → G | tramos: 5 | 67 min | costo: 30
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → C (10 min, costo 7); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 265: A → F → B → C → G | tramos: 4 | 34 min | costo: 23
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 266: A → F → B → D → C → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → D (11 min, costo 1); D → C (4 min, costo 9); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 267: A → F → B → D → C → G | tramos: 5 | 39 min | costo: 26
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → D (11 min, costo 1); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 268: A → F → B → D → E → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → D (11 min, costo 1); D → E (6 min, costo 6); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 269: A → F → B → D → E → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → D (11 min, costo 1); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 270: A → F → B → D → G | tramos: 4 | 42 min | costo: 18
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 271: A → F → B → E → C → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → E (12 min, costo 4); E → C (11 min, costo 1); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 272: A → F → B → E → C → G | tramos: 5 | 47 min | costo: 21
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → E (12 min, costo 4); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 273: A → F → B → E → D → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → E (12 min, costo 4); E → D (12 min, costo 4); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 274: A → F → B → E → D → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → E (12 min, costo 4); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 275: A → F → B → E → G | tramos: 4 | 50 min | costo: 22
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 276: A → F → B → G | tramos: 3 | 37 min | costo: 15
+    tramos usados: A → F (6 min, costo 6); F → B (17 min, costo 8); B → G (14 min, costo 1)
+Itinerario 277: A → F → C → B → D → E → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → B (16 min, costo 5); B → D (11 min, costo 1); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 278: A → F → C → B → D → G | tramos: 5 | 59 min | costo: 17
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → B (16 min, costo 5); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 279: A → F → C → B → E → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → B (16 min, costo 5); B → E (12 min, costo 4); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 280: A → F → C → B → E → G | tramos: 5 | 67 min | costo: 21
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → B (16 min, costo 5); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 281: A → F → C → B → G | tramos: 4 | 54 min | costo: 14
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 282: A → F → C → D → B → E → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → D (18 min, costo 2); D → B (3 min, costo 6); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 283: A → F → C → D → B → G | tramos: 5 | 59 min | costo: 17
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → D (18 min, costo 2); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 284: A → F → C → D → E → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → D (18 min, costo 2); D → E (6 min, costo 6); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 285: A → F → C → D → E → G | tramos: 5 | 63 min | costo: 20
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → D (18 min, costo 2); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 286: A → F → C → D → G | tramos: 4 | 50 min | costo: 13
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 287: A → F → C → E → B → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → E (19 min, costo 5); E → B (10 min, costo 7); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 288: A → F → C → E → B → G | tramos: 5 | 67 min | costo: 21
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → E (19 min, costo 5); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 289: A → F → C → E → D → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → E (19 min, costo 5); E → D (12 min, costo 4); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 290: A → F → C → E → D → G | tramos: 5 | 63 min | costo: 20
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → E (19 min, costo 5); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 291: A → F → C → E → G | tramos: 4 | 58 min | costo: 17
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 292: A → F → C → G | tramos: 3 | 25 min | costo: 10
+    tramos usados: A → F (6 min, costo 6); F → C (18 min, costo 2); C → G (1 min, costo 2)
+Itinerario 293: A → F → D → B → C → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → B (3 min, costo 6); B → C (10 min, costo 7); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 294: A → F → D → B → C → G | tramos: 5 | 39 min | costo: 26
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → B (3 min, costo 6); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 295: A → F → D → B → E → C → G | tramos: 6 | 52 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → B (3 min, costo 6); B → E (12 min, costo 4); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 296: A → F → D → B → E → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → B (3 min, costo 6); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 297: A → F → D → B → G | tramos: 4 | 42 min | costo: 18
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 298: A → F → D → C → B → E → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → C (4 min, costo 9); C → B (16 min, costo 5); B → E (12 min, costo 4); E → G (15 min, costo 4)
+Itinerario 299: A → F → D → C → B → G | tramos: 5 | 59 min | costo: 26
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → C (4 min, costo 9); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 300: A → F → D → C → E → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → C (4 min, costo 9); C → E (19 min, costo 5); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 301: A → F → D → C → E → G | tramos: 5 | 63 min | costo: 29
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → C (4 min, costo 9); C → E (19 min, costo 5); E → G (15 min, costo 4)
+Itinerario 302: A → F → D → C → G | tramos: 4 | 30 min | costo: 22
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 303: A → F → D → E → B → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → E (6 min, costo 6); E → B (10 min, costo 7); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 304: A → F → D → E → B → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → E (6 min, costo 6); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 305: A → F → D → E → C → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → E (6 min, costo 6); E → C (11 min, costo 1); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 306: A → F → D → E → C → G | tramos: 5 | 43 min | costo: 20
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → E (6 min, costo 6); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 307: A → F → D → E → G | tramos: 4 | 46 min | costo: 21
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → E (6 min, costo 6); E → G (15 min, costo 4)
+Itinerario 308: A → F → D → G | tramos: 3 | 33 min | costo: 14
+    tramos usados: A → F (6 min, costo 6); F → D (19 min, costo 5); D → G (8 min, costo 3)
+Itinerario 309: A → F → E → B → C → D → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → B (10 min, costo 7); B → C (10 min, costo 7); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 310: A → F → E → B → C → G | tramos: 5 | 47 min | costo: 30
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → B (10 min, costo 7); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 311: A → F → E → B → D → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → B (10 min, costo 7); B → D (11 min, costo 1); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 312: A → F → E → B → D → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → B (10 min, costo 7); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 313: A → F → E → B → G | tramos: 4 | 50 min | costo: 22
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → B (10 min, costo 7); B → G (14 min, costo 1)
+Itinerario 314: A → F → E → C → B → D → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → C (11 min, costo 1); C → B (16 min, costo 5); B → D (11 min, costo 1); D → G (8 min, costo 3)
+Itinerario 315: A → F → E → C → B → G | tramos: 5 | 67 min | costo: 21
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → C (11 min, costo 1); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 316: A → F → E → C → D → B → G | tramos: 6 | 72 min | costo: 24
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → C (11 min, costo 1); C → D (18 min, costo 2); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 317: A → F → E → C → D → G | tramos: 5 | 63 min | costo: 20
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → C (11 min, costo 1); C → D (18 min, costo 2); D → G (8 min, costo 3)
+Itinerario 318: A → F → E → C → G | tramos: 4 | 38 min | costo: 17
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → C (11 min, costo 1); C → G (1 min, costo 2)
+Itinerario 319: A → F → E → D → B → C → G | tramos: 6 | 52 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → D (12 min, costo 4); D → B (3 min, costo 6); B → C (10 min, costo 7); C → G (1 min, costo 2)
+Itinerario 320: A → F → E → D → B → G | tramos: 5 | 55 min | costo: 25
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → D (12 min, costo 4); D → B (3 min, costo 6); B → G (14 min, costo 1)
+Itinerario 321: A → F → E → D → C → B → G | tramos: 6 | 72 min | costo: 33
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → D (12 min, costo 4); D → C (4 min, costo 9); C → B (16 min, costo 5); B → G (14 min, costo 1)
+Itinerario 322: A → F → E → D → C → G | tramos: 5 | 43 min | costo: 29
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → D (12 min, costo 4); D → C (4 min, costo 9); C → G (1 min, costo 2)
+Itinerario 323: A → F → E → D → G | tramos: 4 | 46 min | costo: 21
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → D (12 min, costo 4); D → G (8 min, costo 3)
+Itinerario 324: A → F → E → G | tramos: 3 | 41 min | costo: 18
+    tramos usados: A → F (6 min, costo 6); F → E (20 min, costo 8); E → G (15 min, costo 4)
+Itinerario 325: A → F → G | tramos: 2 | 8 min | costo: 11
+    tramos usados: A → F (6 min, costo 6); F → G (2 min, costo 5)
+Itinerario 326: A → G | tramos: 1 | 7 min | costo: 9
+    tramos usados: A → G (7 min, costo 9)
+Total: 326 itinerarios
+Menos tramos: 326
+Menor tiempo: 130
+Menor costo: 65
+
+=== G → A ===
+Itinerario 1: G → A | tramos: 1 | 3 min | costo: 6
+    tramos usados: G → A (3 min, costo 6)
+Itinerario 2: G → B → A | tramos: 2 | 12 min | costo: 10
+    tramos usados: G → B (4 min, costo 9); B → A (8 min, costo 1)
+Itinerario 3: G → B → C → A | tramos: 3 | 29 min | costo: 18
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 4: G → B → C → D → A | tramos: 4 | 34 min | costo: 21
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 5: G → B → C → D → E → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → D (18 min, costo 2); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 6: G → B → C → D → E → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → D (18 min, costo 2); D → E (6 min, costo 6); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 7: G → B → C → D → F → A | tramos: 5 | 55 min | costo: 32
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → D (18 min, costo 2); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 8: G → B → C → D → F → E → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → D (18 min, costo 2); D → F (7 min, costo 9); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 9: G → B → C → E → A | tramos: 4 | 42 min | costo: 25
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 10: G → B → C → E → D → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → E (19 min, costo 5); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 11: G → B → C → E → D → F → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → E (19 min, costo 5); E → D (12 min, costo 4); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 12: G → B → C → E → F → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → E (19 min, costo 5); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 13: G → B → C → E → F → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → E (19 min, costo 5); E → F (14 min, costo 1); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 14: G → B → C → F → A | tramos: 4 | 50 min | costo: 29
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 15: G → B → C → F → D → A | tramos: 5 | 55 min | costo: 32
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → F (20 min, costo 8); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 16: G → B → C → F → D → E → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → F (20 min, costo 8); F → D (19 min, costo 5); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 17: G → B → C → F → E → A | tramos: 5 | 63 min | costo: 36
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → F (20 min, costo 8); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 18: G → B → C → F → E → D → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → B (4 min, costo 9); B → C (10 min, costo 7); C → F (20 min, costo 8); F → E (20 min, costo 8); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 19: G → B → D → A | tramos: 3 | 17 min | costo: 13
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 20: G → B → D → C → A | tramos: 4 | 34 min | costo: 21
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 21: G → B → D → C → E → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → C (4 min, costo 9); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 22: G → B → D → C → E → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → C (4 min, costo 9); C → E (19 min, costo 5); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 23: G → B → D → C → F → A | tramos: 5 | 55 min | costo: 32
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → C (4 min, costo 9); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 24: G → B → D → C → F → E → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → C (4 min, costo 9); C → F (20 min, costo 8); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 25: G → B → D → E → A | tramos: 4 | 30 min | costo: 20
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 26: G → B → D → E → C → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → E (6 min, costo 6); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 27: G → B → D → E → C → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → E (6 min, costo 6); E → C (11 min, costo 1); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 28: G → B → D → E → F → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → E (6 min, costo 6); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 29: G → B → D → E → F → C → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → E (6 min, costo 6); E → F (14 min, costo 1); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 30: G → B → D → F → A | tramos: 4 | 38 min | costo: 24
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 31: G → B → D → F → C → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → F (7 min, costo 9); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 32: G → B → D → F → C → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → F (7 min, costo 9); F → C (18 min, costo 2); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 33: G → B → D → F → E → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → F (7 min, costo 9); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 34: G → B → D → F → E → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → D (11 min, costo 1); D → F (7 min, costo 9); F → E (20 min, costo 8); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 35: G → B → E → A | tramos: 3 | 25 min | costo: 17
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 36: G → B → E → C → A | tramos: 4 | 42 min | costo: 16
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 37: G → B → E → C → D → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → C (11 min, costo 1); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 38: G → B → E → C → D → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → C (11 min, costo 1); C → D (18 min, costo 2); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 39: G → B → E → C → F → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → C (11 min, costo 1); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 40: G → B → E → C → F → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → C (11 min, costo 1); C → F (20 min, costo 8); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 41: G → B → E → D → A | tramos: 4 | 30 min | costo: 20
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 42: G → B → E → D → C → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → D (12 min, costo 4); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 43: G → B → E → D → C → F → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → D (12 min, costo 4); D → C (4 min, costo 9); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 44: G → B → E → D → F → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → D (12 min, costo 4); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 45: G → B → E → D → F → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → D (12 min, costo 4); D → F (7 min, costo 9); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 46: G → B → E → F → A | tramos: 4 | 46 min | costo: 19
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 47: G → B → E → F → C → A | tramos: 5 | 63 min | costo: 18
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → F (14 min, costo 1); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 48: G → B → E → F → C → D → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → F (14 min, costo 1); F → C (18 min, costo 2); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 49: G → B → E → F → D → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → F (14 min, costo 1); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 50: G → B → E → F → D → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → E (12 min, costo 4); E → F (14 min, costo 1); F → D (19 min, costo 5); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 51: G → B → F → A | tramos: 3 | 33 min | costo: 21
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 52: G → B → F → C → A | tramos: 4 | 50 min | costo: 20
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 53: G → B → F → C → D → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → C (18 min, costo 2); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 54: G → B → F → C → D → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → C (18 min, costo 2); C → D (18 min, costo 2); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 55: G → B → F → C → E → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → C (18 min, costo 2); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 56: G → B → F → C → E → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → C (18 min, costo 2); C → E (19 min, costo 5); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 57: G → B → F → D → A | tramos: 4 | 38 min | costo: 24
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 58: G → B → F → D → C → A | tramos: 5 | 55 min | costo: 32
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → D (19 min, costo 5); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 59: G → B → F → D → C → E → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → D (19 min, costo 5); D → C (4 min, costo 9); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 60: G → B → F → D → E → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → D (19 min, costo 5); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 61: G → B → F → D → E → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → D (19 min, costo 5); D → E (6 min, costo 6); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 62: G → B → F → E → A | tramos: 4 | 46 min | costo: 28
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 63: G → B → F → E → C → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → E (20 min, costo 8); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 64: G → B → F → E → C → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → E (20 min, costo 8); E → C (11 min, costo 1); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 65: G → B → F → E → D → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → E (20 min, costo 8); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 66: G → B → F → E → D → C → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → B (4 min, costo 9); B → F (13 min, costo 7); F → E (20 min, costo 8); E → D (12 min, costo 4); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 67: G → C → A | tramos: 2 | 20 min | costo: 5
+    tramos usados: G → C (5 min, costo 3); C → A (15 min, costo 2)
+Itinerario 68: G → C → B → A | tramos: 3 | 29 min | costo: 9
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 69: G → C → B → D → A | tramos: 4 | 34 min | costo: 12
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 70: G → C → B → D → E → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → D (11 min, costo 1); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 71: G → C → B → D → E → F → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → D (11 min, costo 1); D → E (6 min, costo 6); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 72: G → C → B → D → F → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → D (11 min, costo 1); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 73: G → C → B → D → F → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → D (11 min, costo 1); D → F (7 min, costo 9); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 74: G → C → B → E → A | tramos: 4 | 42 min | costo: 16
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 75: G → C → B → E → D → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → E (12 min, costo 4); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 76: G → C → B → E → D → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → E (12 min, costo 4); E → D (12 min, costo 4); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 77: G → C → B → E → F → A | tramos: 5 | 63 min | costo: 18
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → E (12 min, costo 4); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 78: G → C → B → E → F → D → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → E (12 min, costo 4); E → F (14 min, costo 1); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 79: G → C → B → F → A | tramos: 4 | 50 min | costo: 20
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 80: G → C → B → F → D → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → F (13 min, costo 7); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 81: G → C → B → F → D → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → F (13 min, costo 7); F → D (19 min, costo 5); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 82: G → C → B → F → E → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → F (13 min, costo 7); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 83: G → C → B → F → E → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → B (16 min, costo 5); B → F (13 min, costo 7); F → E (20 min, costo 8); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 84: G → C → D → A | tramos: 3 | 25 min | costo: 8
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 85: G → C → D → B → A | tramos: 4 | 34 min | costo: 12
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 86: G → C → D → B → E → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → B (3 min, costo 6); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 87: G → C → D → B → E → F → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → B (3 min, costo 6); B → E (12 min, costo 4); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 88: G → C → D → B → F → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → B (3 min, costo 6); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 89: G → C → D → B → F → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → B (3 min, costo 6); B → F (13 min, costo 7); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 90: G → C → D → E → A | tramos: 4 | 38 min | costo: 15
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 91: G → C → D → E → B → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → E (6 min, costo 6); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 92: G → C → D → E → B → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → E (6 min, costo 6); E → B (10 min, costo 7); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 93: G → C → D → E → F → A | tramos: 5 | 59 min | costo: 17
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → E (6 min, costo 6); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 94: G → C → D → E → F → B → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → E (6 min, costo 6); E → F (14 min, costo 1); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 95: G → C → D → F → A | tramos: 4 | 46 min | costo: 19
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 96: G → C → D → F → B → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → F (7 min, costo 9); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 97: G → C → D → F → B → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → F (7 min, costo 9); F → B (17 min, costo 8); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 98: G → C → D → F → E → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → F (7 min, costo 9); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 99: G → C → D → F → E → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → D (18 min, costo 2); D → F (7 min, costo 9); F → E (20 min, costo 8); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 100: G → C → E → A | tramos: 3 | 33 min | costo: 12
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 101: G → C → E → B → A | tramos: 4 | 42 min | costo: 16
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 102: G → C → E → B → D → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → B (10 min, costo 7); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 103: G → C → E → B → D → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → B (10 min, costo 7); B → D (11 min, costo 1); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 104: G → C → E → B → F → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → B (10 min, costo 7); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 105: G → C → E → B → F → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → B (10 min, costo 7); B → F (13 min, costo 7); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 106: G → C → E → D → A | tramos: 4 | 38 min | costo: 15
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 107: G → C → E → D → B → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → D (12 min, costo 4); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 108: G → C → E → D → B → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → D (12 min, costo 4); D → B (3 min, costo 6); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 109: G → C → E → D → F → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → D (12 min, costo 4); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 110: G → C → E → D → F → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → D (12 min, costo 4); D → F (7 min, costo 9); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 111: G → C → E → F → A | tramos: 4 | 54 min | costo: 14
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 112: G → C → E → F → B → A | tramos: 5 | 63 min | costo: 18
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → F (14 min, costo 1); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 113: G → C → E → F → B → D → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → F (14 min, costo 1); F → B (17 min, costo 8); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 114: G → C → E → F → D → A | tramos: 5 | 59 min | costo: 17
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → F (14 min, costo 1); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 115: G → C → E → F → D → B → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → C (5 min, costo 3); C → E (19 min, costo 5); E → F (14 min, costo 1); F → D (19 min, costo 5); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 116: G → C → F → A | tramos: 3 | 41 min | costo: 16
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 117: G → C → F → B → A | tramos: 4 | 50 min | costo: 20
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 118: G → C → F → B → D → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → B (17 min, costo 8); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 119: G → C → F → B → D → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → B (17 min, costo 8); B → D (11 min, costo 1); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 120: G → C → F → B → E → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → B (17 min, costo 8); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 121: G → C → F → B → E → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → B (17 min, costo 8); B → E (12 min, costo 4); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 122: G → C → F → D → A | tramos: 4 | 46 min | costo: 19
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 123: G → C → F → D → B → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → D (19 min, costo 5); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 124: G → C → F → D → B → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → D (19 min, costo 5); D → B (3 min, costo 6); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 125: G → C → F → D → E → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → D (19 min, costo 5); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 126: G → C → F → D → E → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → D (19 min, costo 5); D → E (6 min, costo 6); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 127: G → C → F → E → A | tramos: 4 | 54 min | costo: 23
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 128: G → C → F → E → B → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → E (20 min, costo 8); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 129: G → C → F → E → B → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → E (20 min, costo 8); E → B (10 min, costo 7); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 130: G → C → F → E → D → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → E (20 min, costo 8); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 131: G → C → F → E → D → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → C (5 min, costo 3); C → F (20 min, costo 8); F → E (20 min, costo 8); E → D (12 min, costo 4); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 132: G → D → A | tramos: 2 | 8 min | costo: 9
+    tramos usados: G → D (6 min, costo 6); D → A (2 min, costo 3)
+Itinerario 133: G → D → B → A | tramos: 3 | 17 min | costo: 13
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 134: G → D → B → C → A | tramos: 4 | 34 min | costo: 21
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 135: G → D → B → C → E → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → C (10 min, costo 7); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 136: G → D → B → C → E → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → C (10 min, costo 7); C → E (19 min, costo 5); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 137: G → D → B → C → F → A | tramos: 5 | 55 min | costo: 32
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → C (10 min, costo 7); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 138: G → D → B → C → F → E → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → C (10 min, costo 7); C → F (20 min, costo 8); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 139: G → D → B → E → A | tramos: 4 | 30 min | costo: 20
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 140: G → D → B → E → C → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → E (12 min, costo 4); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 141: G → D → B → E → C → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → E (12 min, costo 4); E → C (11 min, costo 1); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 142: G → D → B → E → F → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → E (12 min, costo 4); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 143: G → D → B → E → F → C → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → E (12 min, costo 4); E → F (14 min, costo 1); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 144: G → D → B → F → A | tramos: 4 | 38 min | costo: 24
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 145: G → D → B → F → C → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → F (13 min, costo 7); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 146: G → D → B → F → C → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → F (13 min, costo 7); F → C (18 min, costo 2); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 147: G → D → B → F → E → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → F (13 min, costo 7); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 148: G → D → B → F → E → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → B (3 min, costo 6); B → F (13 min, costo 7); F → E (20 min, costo 8); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 149: G → D → C → A | tramos: 3 | 25 min | costo: 17
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 150: G → D → C → B → A | tramos: 4 | 34 min | costo: 21
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 151: G → D → C → B → E → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → B (16 min, costo 5); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 152: G → D → C → B → E → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → B (16 min, costo 5); B → E (12 min, costo 4); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 153: G → D → C → B → F → A | tramos: 5 | 55 min | costo: 32
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → B (16 min, costo 5); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 154: G → D → C → B → F → E → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → B (16 min, costo 5); B → F (13 min, costo 7); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 155: G → D → C → E → A | tramos: 4 | 38 min | costo: 24
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 156: G → D → C → E → B → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → E (19 min, costo 5); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 157: G → D → C → E → B → F → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → E (19 min, costo 5); E → B (10 min, costo 7); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 158: G → D → C → E → F → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → E (19 min, costo 5); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 159: G → D → C → E → F → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → E (19 min, costo 5); E → F (14 min, costo 1); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 160: G → D → C → F → A | tramos: 4 | 46 min | costo: 28
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 161: G → D → C → F → B → A | tramos: 5 | 55 min | costo: 32
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → F (20 min, costo 8); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 162: G → D → C → F → B → E → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → F (20 min, costo 8); F → B (17 min, costo 8); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 163: G → D → C → F → E → A | tramos: 5 | 59 min | costo: 35
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → F (20 min, costo 8); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 164: G → D → C → F → E → B → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → D (6 min, costo 6); D → C (4 min, costo 9); C → F (20 min, costo 8); F → E (20 min, costo 8); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 165: G → D → E → A | tramos: 3 | 21 min | costo: 16
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 166: G → D → E → B → A | tramos: 4 | 30 min | costo: 20
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 167: G → D → E → B → C → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → B (10 min, costo 7); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 168: G → D → E → B → C → F → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → B (10 min, costo 7); B → C (10 min, costo 7); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 169: G → D → E → B → F → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → B (10 min, costo 7); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 170: G → D → E → B → F → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → B (10 min, costo 7); B → F (13 min, costo 7); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 171: G → D → E → C → A | tramos: 4 | 38 min | costo: 15
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 172: G → D → E → C → B → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → C (11 min, costo 1); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 173: G → D → E → C → B → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → C (11 min, costo 1); C → B (16 min, costo 5); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 174: G → D → E → C → F → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → C (11 min, costo 1); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 175: G → D → E → C → F → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → C (11 min, costo 1); C → F (20 min, costo 8); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 176: G → D → E → F → A | tramos: 4 | 42 min | costo: 18
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 177: G → D → E → F → B → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → F (14 min, costo 1); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 178: G → D → E → F → B → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → F (14 min, costo 1); F → B (17 min, costo 8); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 179: G → D → E → F → C → A | tramos: 5 | 59 min | costo: 17
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → F (14 min, costo 1); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 180: G → D → E → F → C → B → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → D (6 min, costo 6); D → E (6 min, costo 6); E → F (14 min, costo 1); F → C (18 min, costo 2); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 181: G → D → F → A | tramos: 3 | 29 min | costo: 20
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 182: G → D → F → B → A | tramos: 4 | 38 min | costo: 24
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 183: G → D → F → B → C → A | tramos: 5 | 55 min | costo: 32
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → B (17 min, costo 8); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 184: G → D → F → B → C → E → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → B (17 min, costo 8); B → C (10 min, costo 7); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 185: G → D → F → B → E → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → B (17 min, costo 8); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 186: G → D → F → B → E → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → B (17 min, costo 8); B → E (12 min, costo 4); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 187: G → D → F → C → A | tramos: 4 | 46 min | costo: 19
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 188: G → D → F → C → B → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → C (18 min, costo 2); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 189: G → D → F → C → B → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → C (18 min, costo 2); C → B (16 min, costo 5); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 190: G → D → F → C → E → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → C (18 min, costo 2); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 191: G → D → F → C → E → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → C (18 min, costo 2); C → E (19 min, costo 5); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 192: G → D → F → E → A | tramos: 4 | 42 min | costo: 27
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 193: G → D → F → E → B → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → E (20 min, costo 8); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 194: G → D → F → E → B → C → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → E (20 min, costo 8); E → B (10 min, costo 7); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 195: G → D → F → E → C → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → E (20 min, costo 8); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 196: G → D → F → E → C → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → D (6 min, costo 6); D → F (7 min, costo 9); F → E (20 min, costo 8); E → C (11 min, costo 1); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 197: G → E → A | tramos: 2 | 16 min | costo: 13
+    tramos usados: G → E (7 min, costo 9); E → A (9 min, costo 4)
+Itinerario 198: G → E → B → A | tramos: 3 | 25 min | costo: 17
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 199: G → E → B → C → A | tramos: 4 | 42 min | costo: 25
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 200: G → E → B → C → D → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → C (10 min, costo 7); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 201: G → E → B → C → D → F → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → C (10 min, costo 7); C → D (18 min, costo 2); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 202: G → E → B → C → F → A | tramos: 5 | 63 min | costo: 36
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → C (10 min, costo 7); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 203: G → E → B → C → F → D → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → C (10 min, costo 7); C → F (20 min, costo 8); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 204: G → E → B → D → A | tramos: 4 | 30 min | costo: 20
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 205: G → E → B → D → C → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → D (11 min, costo 1); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 206: G → E → B → D → C → F → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → D (11 min, costo 1); D → C (4 min, costo 9); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 207: G → E → B → D → F → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → D (11 min, costo 1); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 208: G → E → B → D → F → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → D (11 min, costo 1); D → F (7 min, costo 9); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 209: G → E → B → F → A | tramos: 4 | 46 min | costo: 28
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 210: G → E → B → F → C → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → F (13 min, costo 7); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 211: G → E → B → F → C → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → F (13 min, costo 7); F → C (18 min, costo 2); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 212: G → E → B → F → D → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → F (13 min, costo 7); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 213: G → E → B → F → D → C → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → E (7 min, costo 9); E → B (10 min, costo 7); B → F (13 min, costo 7); F → D (19 min, costo 5); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 214: G → E → C → A | tramos: 3 | 33 min | costo: 12
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 215: G → E → C → B → A | tramos: 4 | 42 min | costo: 16
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 216: G → E → C → B → D → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → B (16 min, costo 5); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 217: G → E → C → B → D → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → B (16 min, costo 5); B → D (11 min, costo 1); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 218: G → E → C → B → F → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → B (16 min, costo 5); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 219: G → E → C → B → F → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → B (16 min, costo 5); B → F (13 min, costo 7); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 220: G → E → C → D → A | tramos: 4 | 38 min | costo: 15
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 221: G → E → C → D → B → A | tramos: 5 | 47 min | costo: 19
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → D (18 min, costo 2); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 222: G → E → C → D → B → F → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → D (18 min, costo 2); D → B (3 min, costo 6); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 223: G → E → C → D → F → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → D (18 min, costo 2); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 224: G → E → C → D → F → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → D (18 min, costo 2); D → F (7 min, costo 9); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 225: G → E → C → F → A | tramos: 4 | 54 min | costo: 23
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 226: G → E → C → F → B → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → F (20 min, costo 8); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 227: G → E → C → F → B → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → F (20 min, costo 8); F → B (17 min, costo 8); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 228: G → E → C → F → D → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → F (20 min, costo 8); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 229: G → E → C → F → D → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → C (11 min, costo 1); C → F (20 min, costo 8); F → D (19 min, costo 5); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 230: G → E → D → A | tramos: 3 | 21 min | costo: 16
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 231: G → E → D → B → A | tramos: 4 | 30 min | costo: 20
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 232: G → E → D → B → C → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → B (3 min, costo 6); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 233: G → E → D → B → C → F → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → B (3 min, costo 6); B → C (10 min, costo 7); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 234: G → E → D → B → F → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → B (3 min, costo 6); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 235: G → E → D → B → F → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → B (3 min, costo 6); B → F (13 min, costo 7); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 236: G → E → D → C → A | tramos: 4 | 38 min | costo: 24
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 237: G → E → D → C → B → A | tramos: 5 | 47 min | costo: 28
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → C (4 min, costo 9); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 238: G → E → D → C → B → F → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → C (4 min, costo 9); C → B (16 min, costo 5); B → F (13 min, costo 7); F → A (16 min, costo 5)
+Itinerario 239: G → E → D → C → F → A | tramos: 5 | 59 min | costo: 35
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → C (4 min, costo 9); C → F (20 min, costo 8); F → A (16 min, costo 5)
+Itinerario 240: G → E → D → C → F → B → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → C (4 min, costo 9); C → F (20 min, costo 8); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 241: G → E → D → F → A | tramos: 4 | 42 min | costo: 27
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → F (7 min, costo 9); F → A (16 min, costo 5)
+Itinerario 242: G → E → D → F → B → A | tramos: 5 | 51 min | costo: 31
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → F (7 min, costo 9); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 243: G → E → D → F → B → C → A | tramos: 6 | 68 min | costo: 39
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → F (7 min, costo 9); F → B (17 min, costo 8); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 244: G → E → D → F → C → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → F (7 min, costo 9); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 245: G → E → D → F → C → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → D (12 min, costo 4); D → F (7 min, costo 9); F → C (18 min, costo 2); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 246: G → E → F → A | tramos: 3 | 37 min | costo: 15
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → A (16 min, costo 5)
+Itinerario 247: G → E → F → B → A | tramos: 4 | 46 min | costo: 19
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 248: G → E → F → B → C → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → B (17 min, costo 8); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 249: G → E → F → B → C → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → B (17 min, costo 8); B → C (10 min, costo 7); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 250: G → E → F → B → D → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → B (17 min, costo 8); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 251: G → E → F → B → D → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → B (17 min, costo 8); B → D (11 min, costo 1); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 252: G → E → F → C → A | tramos: 4 | 54 min | costo: 14
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 253: G → E → F → C → B → A | tramos: 5 | 63 min | costo: 18
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → C (18 min, costo 2); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 254: G → E → F → C → B → D → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → C (18 min, costo 2); C → B (16 min, costo 5); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 255: G → E → F → C → D → A | tramos: 5 | 59 min | costo: 17
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → C (18 min, costo 2); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 256: G → E → F → C → D → B → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → C (18 min, costo 2); C → D (18 min, costo 2); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 257: G → E → F → D → A | tramos: 4 | 42 min | costo: 18
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 258: G → E → F → D → B → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → D (19 min, costo 5); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 259: G → E → F → D → B → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → D (19 min, costo 5); D → B (3 min, costo 6); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 260: G → E → F → D → C → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → D (19 min, costo 5); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 261: G → E → F → D → C → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → E (7 min, costo 9); E → F (14 min, costo 1); F → D (19 min, costo 5); D → C (4 min, costo 9); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 262: G → F → A | tramos: 2 | 24 min | costo: 8
+    tramos usados: G → F (8 min, costo 3); F → A (16 min, costo 5)
+Itinerario 263: G → F → B → A | tramos: 3 | 33 min | costo: 12
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → A (8 min, costo 1)
+Itinerario 264: G → F → B → C → A | tramos: 4 | 50 min | costo: 20
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 265: G → F → B → C → D → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → C (10 min, costo 7); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 266: G → F → B → C → D → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → C (10 min, costo 7); C → D (18 min, costo 2); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 267: G → F → B → C → E → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → C (10 min, costo 7); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 268: G → F → B → C → E → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → C (10 min, costo 7); C → E (19 min, costo 5); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 269: G → F → B → D → A | tramos: 4 | 38 min | costo: 15
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 270: G → F → B → D → C → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → D (11 min, costo 1); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 271: G → F → B → D → C → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → D (11 min, costo 1); D → C (4 min, costo 9); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 272: G → F → B → D → E → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → D (11 min, costo 1); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 273: G → F → B → D → E → C → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → D (11 min, costo 1); D → E (6 min, costo 6); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 274: G → F → B → E → A | tramos: 4 | 46 min | costo: 19
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 275: G → F → B → E → C → A | tramos: 5 | 63 min | costo: 18
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → E (12 min, costo 4); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 276: G → F → B → E → C → D → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → E (12 min, costo 4); E → C (11 min, costo 1); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 277: G → F → B → E → D → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → E (12 min, costo 4); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 278: G → F → B → E → D → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → B (17 min, costo 8); B → E (12 min, costo 4); E → D (12 min, costo 4); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 279: G → F → C → A | tramos: 3 | 41 min | costo: 7
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → A (15 min, costo 2)
+Itinerario 280: G → F → C → B → A | tramos: 4 | 50 min | costo: 11
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 281: G → F → C → B → D → A | tramos: 5 | 55 min | costo: 14
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → B (16 min, costo 5); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 282: G → F → C → B → D → E → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → B (16 min, costo 5); B → D (11 min, costo 1); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 283: G → F → C → B → E → A | tramos: 5 | 63 min | costo: 18
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → B (16 min, costo 5); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 284: G → F → C → B → E → D → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → B (16 min, costo 5); B → E (12 min, costo 4); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 285: G → F → C → D → A | tramos: 4 | 46 min | costo: 10
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 286: G → F → C → D → B → A | tramos: 5 | 55 min | costo: 14
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → D (18 min, costo 2); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 287: G → F → C → D → B → E → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → D (18 min, costo 2); D → B (3 min, costo 6); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 288: G → F → C → D → E → A | tramos: 5 | 59 min | costo: 17
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → D (18 min, costo 2); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 289: G → F → C → D → E → B → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → D (18 min, costo 2); D → E (6 min, costo 6); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 290: G → F → C → E → A | tramos: 4 | 54 min | costo: 14
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 291: G → F → C → E → B → A | tramos: 5 | 63 min | costo: 18
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → E (19 min, costo 5); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 292: G → F → C → E → B → D → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → E (19 min, costo 5); E → B (10 min, costo 7); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 293: G → F → C → E → D → A | tramos: 5 | 59 min | costo: 17
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → E (19 min, costo 5); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 294: G → F → C → E → D → B → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → C (18 min, costo 2); C → E (19 min, costo 5); E → D (12 min, costo 4); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 295: G → F → D → A | tramos: 3 | 29 min | costo: 11
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → A (2 min, costo 3)
+Itinerario 296: G → F → D → B → A | tramos: 4 | 38 min | costo: 15
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 297: G → F → D → B → C → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → B (3 min, costo 6); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 298: G → F → D → B → C → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → B (3 min, costo 6); B → C (10 min, costo 7); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 299: G → F → D → B → E → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → B (3 min, costo 6); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 300: G → F → D → B → E → C → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → B (3 min, costo 6); B → E (12 min, costo 4); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 301: G → F → D → C → A | tramos: 4 | 46 min | costo: 19
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 302: G → F → D → C → B → A | tramos: 5 | 55 min | costo: 23
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → C (4 min, costo 9); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 303: G → F → D → C → B → E → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → C (4 min, costo 9); C → B (16 min, costo 5); B → E (12 min, costo 4); E → A (9 min, costo 4)
+Itinerario 304: G → F → D → C → E → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → C (4 min, costo 9); C → E (19 min, costo 5); E → A (9 min, costo 4)
+Itinerario 305: G → F → D → C → E → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → C (4 min, costo 9); C → E (19 min, costo 5); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 306: G → F → D → E → A | tramos: 4 | 42 min | costo: 18
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → E (6 min, costo 6); E → A (9 min, costo 4)
+Itinerario 307: G → F → D → E → B → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → E (6 min, costo 6); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 308: G → F → D → E → B → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → E (6 min, costo 6); E → B (10 min, costo 7); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 309: G → F → D → E → C → A | tramos: 5 | 59 min | costo: 17
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → E (6 min, costo 6); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 310: G → F → D → E → C → B → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → D (19 min, costo 5); D → E (6 min, costo 6); E → C (11 min, costo 1); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 311: G → F → E → A | tramos: 3 | 37 min | costo: 15
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → A (9 min, costo 4)
+Itinerario 312: G → F → E → B → A | tramos: 4 | 46 min | costo: 19
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → B (10 min, costo 7); B → A (8 min, costo 1)
+Itinerario 313: G → F → E → B → C → A | tramos: 5 | 63 min | costo: 27
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → B (10 min, costo 7); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 314: G → F → E → B → C → D → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → B (10 min, costo 7); B → C (10 min, costo 7); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 315: G → F → E → B → D → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → B (10 min, costo 7); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 316: G → F → E → B → D → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → B (10 min, costo 7); B → D (11 min, costo 1); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 317: G → F → E → C → A | tramos: 4 | 54 min | costo: 14
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → C (11 min, costo 1); C → A (15 min, costo 2)
+Itinerario 318: G → F → E → C → B → A | tramos: 5 | 63 min | costo: 18
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → C (11 min, costo 1); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Itinerario 319: G → F → E → C → B → D → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → C (11 min, costo 1); C → B (16 min, costo 5); B → D (11 min, costo 1); D → A (2 min, costo 3)
+Itinerario 320: G → F → E → C → D → A | tramos: 5 | 59 min | costo: 17
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → C (11 min, costo 1); C → D (18 min, costo 2); D → A (2 min, costo 3)
+Itinerario 321: G → F → E → C → D → B → A | tramos: 6 | 68 min | costo: 21
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → C (11 min, costo 1); C → D (18 min, costo 2); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 322: G → F → E → D → A | tramos: 4 | 42 min | costo: 18
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → D (12 min, costo 4); D → A (2 min, costo 3)
+Itinerario 323: G → F → E → D → B → A | tramos: 5 | 51 min | costo: 22
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → D (12 min, costo 4); D → B (3 min, costo 6); B → A (8 min, costo 1)
+Itinerario 324: G → F → E → D → B → C → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → D (12 min, costo 4); D → B (3 min, costo 6); B → C (10 min, costo 7); C → A (15 min, costo 2)
+Itinerario 325: G → F → E → D → C → A | tramos: 5 | 59 min | costo: 26
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → D (12 min, costo 4); D → C (4 min, costo 9); C → A (15 min, costo 2)
+Itinerario 326: G → F → E → D → C → B → A | tramos: 6 | 68 min | costo: 30
+    tramos usados: G → F (8 min, costo 3); F → E (20 min, costo 8); E → D (12 min, costo 4); D → C (4 min, costo 9); C → B (16 min, costo 5); B → A (8 min, costo 1)
+Total: 326 itinerarios
+Menos tramos: 1
+Menor tiempo: 1
+Menor costo: 67
+

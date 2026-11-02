@@ -1,0 +1,13 @@
+=== A → D ===
+Paso 0: {A}
+Paso 1: {A, B, C}
+Paso 2: {A, B, C, D}
+Se estabiliza en el paso 2 (el paso 3 repite el mismo conjunto)
+¿D es alcanzable?: sí
+
+=== B → A ===
+Paso 0: {B}
+Paso 1: {B, C, D}
+Se estabiliza en el paso 1 (el paso 2 repite el mismo conjunto)
+¿A es alcanzable?: no (sin itinerarios)
+

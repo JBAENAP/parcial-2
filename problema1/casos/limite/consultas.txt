@@ -1,0 +1,5 @@
+# origen igual al destino
+A,A
+# destino aislado: solo existe por un bucle descartado
+A,Z
+C,B

@@ -1,0 +1,12 @@
+=== A → G ===
+Paso 0: {A}
+Paso 1: {A, B, C, D, E, F, G}
+Se estabiliza en el paso 1 (el paso 2 repite el mismo conjunto)
+¿G es alcanzable?: sí
+
+=== G → A ===
+Paso 0: {G}
+Paso 1: {A, B, C, D, E, F, G}
+Se estabiliza en el paso 1 (el paso 2 repite el mismo conjunto)
+¿A es alcanzable?: sí
+

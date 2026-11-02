@@ -1,0 +1,4 @@
+# símbolos y nombres con caracteres que hay que escapar en XML
+&,pasto & "flores",#84CC16
+<,roca <dura>,#78716C
+.,fondo,#ffffff

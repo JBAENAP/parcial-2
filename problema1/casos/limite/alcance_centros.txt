@@ -1,0 +1,19 @@
+=== A → A ===
+Paso 0: {A}
+Paso 1: {A, B, C}
+Se estabiliza en el paso 1 (el paso 2 repite el mismo conjunto)
+¿A es alcanzable?: sí
+
+=== A → Z ===
+Paso 0: {A}
+Paso 1: {A, B, C}
+Se estabiliza en el paso 1 (el paso 2 repite el mismo conjunto)
+¿Z es alcanzable?: no (sin itinerarios)
+
+=== C → B ===
+Paso 0: {C}
+Paso 1: {A, C}
+Paso 2: {A, B, C}
+Se estabiliza en el paso 2 (el paso 3 repite el mismo conjunto)
+¿B es alcanzable?: sí
+

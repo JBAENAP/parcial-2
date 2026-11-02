@@ -1,0 +1,6 @@
+Línea 3: "B,C,abc,2" -> minutos no es un entero (abc)
+Línea 4: "C,D,5" -> se esperaban 4 campos (origen,destino,minutos,costo) y hay 3
+Línea 5: "D,E,4,-3" -> costo debe ser mayor que cero (-3)
+Línea 6: ",F,2,2" -> el origen está vacío
+Línea 7: "B,C,0,1" -> minutos debe ser mayor que cero (0)
+Línea 8: "E,F,3,3,9" -> se esperaban 4 campos (origen,destino,minutos,costo) y hay 5
